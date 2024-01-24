@@ -2,10 +2,6 @@
 
 Welcome to the Expense Tracker App repository! It is a simple web application which allows users to manage and track their expenses. 
 
-## Demo Video
-
-Check out this video to see a live demonstration of the Expense Tracker app:
-[Expense Tracker Demo](https://youtu.be/IlUs0ESfFK4)
 
 ## Features
 
