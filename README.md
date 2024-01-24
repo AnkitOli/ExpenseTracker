@@ -37,6 +37,3 @@ Check out this video to see a live demonstration of the Expense Tracker app:
 6. Build and run the application using Maven via `mvn spring-boot:run` command or via IDE.
 7. Access the app in your browser at `http://localhost:9191`. You can change the serverport in application.properties file.
 
-
-
-# ExpenseTracker
